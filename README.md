@@ -1,6 +1,6 @@
 # CHARME PERFUME — Chính sách & yêu cầu xoá tài khoản
 
-Trang tĩnh (GitHub Pages) cho ứng dụng CHARME PERFUME (`com.charmeperfume.app`):
+Trang tĩnh (GitHub Pages) cho ứng dụng CHARME PERFUME (Android `charmegt.app`, iOS `vn.charmegt.app`):
 
 - `index.html` — Chính sách quyền riêng tư
 - `xoa-tai-khoan.html` — Hướng dẫn yêu cầu xoá tài khoản và dữ liệu
